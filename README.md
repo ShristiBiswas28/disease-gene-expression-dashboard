@@ -58,3 +58,14 @@ disease-gene-expression-dashboard/
 ├── notebooks/
 ├── visuals/
 └── README.md
+
+
+SQL Analysis
+
+Performed SQL queries using MySQL to analyze processed gene expression data:
+
+* Counted tumor vs normal samples
+* Identified top 20 differentially expressed genes
+* Compared average gene expression between conditions
+* Verified differential expression calculations
+
